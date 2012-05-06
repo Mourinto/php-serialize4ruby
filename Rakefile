@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "php-serialize4ruby"
   gem.homepage = "http://github.com/kaspernj/php-serialize4ruby"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A fork of the original gem "php-serialize" because I have no hope of the original guy to update the gem}
+  gem.description = %Q{Read the original gems description.}
   gem.email = "k@spernj.org"
   gem.authors = ["Kasper Johansen"]
   # dependencies defined in Gemfile
