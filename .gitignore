@@ -49,3 +49,5 @@ pkg
 #*.rbc
 
 Gemfile.lock
+.DS_Store
+Thumbs.db
